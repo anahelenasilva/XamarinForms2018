@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Secao05/App01_ConsultaCEP/.vs/App01_ConsultaCEP/v15/Server/sqlite3
+/Secao06/App02_TipoPaginaXF/.vs/App02_TipoPaginaXF
+/Secao06/App02_TipoPaginaXF/App02_TipoPaginaXF/App02_TipoPaginaXF/bin/Debug/netstandard2.0
+/Secao06/App02_TipoPaginaXF/App02_TipoPaginaXF/App02_TipoPaginaXF.Android/bin/Debug
+/Secao06/App02_TipoPaginaXF/App02_TipoPaginaXF/App02_TipoPaginaXF.iOS/obj
+/Secao06/App02_TipoPaginaXF/App02_TipoPaginaXF/App02_TipoPaginaXF.iOS/bin/iPhoneSimulator/Debug
+/Secao06/App02_TipoPaginaXF/App02_TipoPaginaXF/App02_TipoPaginaXF.Android/obj
+/.vs
+/Secao07/App01_LayoutXF/.vs/App01_LayoutXF
+/Secao07/App01_LayoutXF/App01_LayoutXF/App01_LayoutXF/obj
+/Secao07/App01_LayoutXF/App01_LayoutXF/App01_LayoutXF/bin/Debug/netstandard2.0
+/Secao07/App01_LayoutXF/App01_LayoutXF/App01_LayoutXF.Android/bin/Debug
+/Secao07/App01_LayoutXF/App01_LayoutXF/App01_LayoutXF.Android/obj
+/Secao08
+/Secao07/App01_LayoutXF
+/Secao06/App02_TipoPaginaXF
+/Secao05/App01_ConsultaCEP
+/Secao09/App1_Cell/.vs/App1_Cell/v15/Server/sqlite3
