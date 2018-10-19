@@ -1,0 +1,8 @@
+C:\Github\XamarinForms2018\XamarinForms2018\Secao09\App2_ListaEstados\App2_ListaEstados\App2_ListaEstados\bin\Debug\netstandard2.0\App2_ListaEstados.deps.json
+C:\Github\XamarinForms2018\XamarinForms2018\Secao09\App2_ListaEstados\App2_ListaEstados\App2_ListaEstados\bin\Debug\netstandard2.0\App2_ListaEstados.dll
+C:\Github\XamarinForms2018\XamarinForms2018\Secao09\App2_ListaEstados\App2_ListaEstados\App2_ListaEstados\obj\Debug\netstandard2.0\App2_ListaEstados.csprojAssemblyReference.cache
+C:\Github\XamarinForms2018\XamarinForms2018\Secao09\App2_ListaEstados\App2_ListaEstados\App2_ListaEstados\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Github\XamarinForms2018\XamarinForms2018\Secao09\App2_ListaEstados\App2_ListaEstados\App2_ListaEstados\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Github\XamarinForms2018\XamarinForms2018\Secao09\App2_ListaEstados\App2_ListaEstados\App2_ListaEstados\obj\Debug\netstandard2.0\App2_ListaEstados.csproj.CoreCompileInputs.cache
+C:\Github\XamarinForms2018\XamarinForms2018\Secao09\App2_ListaEstados\App2_ListaEstados\App2_ListaEstados\obj\Debug\netstandard2.0\App2_ListaEstados.AssemblyInfoInputs.cache
+C:\Github\XamarinForms2018\XamarinForms2018\Secao09\App2_ListaEstados\App2_ListaEstados\App2_ListaEstados\obj\Debug\netstandard2.0\App2_ListaEstados.AssemblyInfo.cs
